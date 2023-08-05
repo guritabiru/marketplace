@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.2.2)
+  - SDWebImage (5.9.2):
+    - SDWebImage/Core (= 5.9.2)
+  - SDWebImage/Core (5.9.2)
+  - SkeletonView (1.10.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  SDWebImage: 0b42b8719ab0c5257177d5894306e8a336b21cbb
+  SkeletonView: 14fbe9702c7fb5c5f011b44ac3ae99fc73155726
+
+PODFILE CHECKSUM: c071845461cf7130db35ff3cb74078aa274848b3
+
+COCOAPODS: 1.11.2
